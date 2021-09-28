@@ -6,26 +6,26 @@
 hello_world = "Kono world da" # This is a valid variable
 
 # to take user input we use the input() function
-# first_name = input("Enter your name : ")
+first_name = input("Enter your name : ")
 
 # print("hello,",first_name)
 
 # type casting
 # We can type cast an string returned from input() function into an integer using the int() function
-# n1 = input("Enter number : ")
-# n2 = input("Enter number : ")
+n1 = input("Enter number : ")
+n2 = input("Enter number : ")
 
 # type casting to int
-# n1 = int(n1)
-# n2 = int(n2)
+n1 = int(n1)
+n2 = int(n2)
 
 #type casting to float
-# n1 = float(n1)
-# n2 = float(n2)
+n1 = float(n1)
+n2 = float(n2)
 
 # calculating result
-# result = n1 + n2
-# print(result)
+result = n1 + n2
+print(result)
 
 # percentage calculating program
 name = input("Enter your name: ")
