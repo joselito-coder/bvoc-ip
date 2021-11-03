@@ -1,7 +1,7 @@
 """
     branching is performing a certain task based on a condition
     new function:
-    len() ==>
+    len() ==>Return the length (the number of items) of a given sequence (such as a string, list, or range) 
 
     String methods:
     [stringVariable].replace(find,replace) ==> Replaces every occurences of [find] with [replace]
