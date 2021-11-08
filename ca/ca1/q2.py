@@ -11,7 +11,7 @@ password = input("Enter password: ")
 
 # Check if username or password is empty if they are empty  then print the error message
 if len(username) == 0 or len(password) == 0:
-    print("Password or password cannot be empty")
+    print("Password or username cannot be empty")
 else:
     # Check for other error cases
     if len(password) > 16:
