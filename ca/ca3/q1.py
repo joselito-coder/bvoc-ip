@@ -38,18 +38,18 @@ def calc(num_list,operator):
         
         return initial_mult
 
-    if operator == '+':
+    elif operator == '+':
         for number in num_list:
             initial += number
         return initial
 
 
-    if operator == '-':
+    elif operator == '-':
         for number in num_list:
             initial -= number
         return initial
 
-    if operator == '/':
+    elif operator == '/':
         for number in num_list:
             initial -= number
         return initial
